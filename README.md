@@ -3,7 +3,8 @@ Cybersecurity Simulation Game
 
 ## 📸 Screenshots
 
-![SCS BANNER](https://raw.githubusercontent.com/SafwanBinMahbub/scs-dark-net.apk/main/leaderboard.png)
+![Leaderboard](https://raw.githubusercontent.com/SafwanBinMahbub/scs-dark-net.apk/main/leaderboard.png)
+
 ## 🚀 Features
 
 - Phishing Detection System  
