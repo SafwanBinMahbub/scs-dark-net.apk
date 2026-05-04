@@ -3,7 +3,7 @@ Cybersecurity Simulation Game
 
 ## 📸 Screenshots
 
-![Leaderboard](https://raw.githubusercontent.com/SafwanBinMahbub/scs-dark-net.apk/main/leaderboard.png)
+![Leaderboard](./leaderboard.png)
 
 ## 🚀 Features
 
